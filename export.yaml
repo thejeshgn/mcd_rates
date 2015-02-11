@@ -1,0 +1,10 @@
+common:
+  database: "sqlite:///mcd.sqlite"
+  format: csv
+
+exports:
+
+  - query: "select * from rates "
+    filename: "mcd_rates.csv"
+    format: csv
+
