@@ -4,7 +4,7 @@
 All the data is in mcd_rates.csv if you like sqlite then check mcd.sqlite
 
 ## License
-This data itself is availabe under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Which means 
+This scraping code and scraped data are availabe under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Which means 
 - Share — copy and redistribute the material in any medium or format
 - Adapt — remix, transform, and build upon the material for any purpose, even commercially.The licensor cannot revoke these freedoms as long as you follow the license terms.
 
